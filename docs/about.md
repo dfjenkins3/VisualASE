@@ -1,37 +1,14 @@
-# Specus ramum licet praeconia Phylius
+# VisualASE: A Database Webinterface for Visualizing Allele-Specific Expression in Parkinson’s Disease
 
-## Dederat thalami ora deos mota crimenque rapidas
+## What is this database about? 
 
-Lorem markdownum enim Hesperio vivo cadit, caput! Studiisque amat tellus: videt
-ingens mugitibus [excessitque leto](http://tumblr.com/) penetrabit vittas
-clipeoque in!
+The Myers Lab at Boston University Medical Campus is studying the genetic basis of the  development of Parkinson’s disease (PD). This research is based on brain tissue samples from 11 deceased PD patients and 33 control individuals, the RNA-seq data, and the microarray genotyping results. Allele-specific expression (ASE) refers to the preferred expression of one allele of a gene in diploid organisms. Multiple alignment methods were applied to the same data, and Meta-analysis based allele-specific expression detection (MBASED) was used to identify gene ASE in the RNA-seq data, and a binomial test was used to find significant ASE of individual SNPs. In addition to determining the relationship between ASE and Parkinson’s disease as mentioned above, the Myers Lab is also interested in evaluating and comparing those different alignment methods. This is a user-friendly web interface for users to visualize the ASE in genes across these PD samples as well as the gene’s statistics, and to compare the different analysis methods with interactive visualizations. 
 
-Maritae consurgere redditur **templa** Ephyre corporeusque causa verba vetito
-ille ova conprendere sum concessit, Parcarum. Si mandata sacra Piraeaque
-Pygmaeae vagantem altera promissas ipsas inde cana, Ixionides, morte. **Negat
-galea**. Amantis modo dedit deprimeret imago; semper hoc turba fractis in fidem:
-nube cum.
 
-> Isque in furtum terribilis videre caelestibus fata mixtaeque vultum certas
-> iuvenem quosque. Quae in medios **et** colentes *aera palmis*, de enim heu
-> aeternus fuerant. Hora fuit Echo fugitque gratia in incipit crinita matertera
-> *potest*. Iubeo iactis indice harenas curvantur vitibus mora Calydonius
-> Caesareos plena concidit ira fidem, cana obruor, prehensis.
+## What questions can we answer?
 
-## Potui nostri numerare nomen latebris
+1.How many instances of ASE exist in a given pathway? What are the genes? How many instances of ASE occur in genes known to be associated with PD? What genes?
+2.How much evidence is present to support that a given gene is, or is not, showing significant ASE? 
+3.For a gene flagged by MBASED as presenting ASE, what is the distribution of SNPs in that gene? Are the ratios of allele expression similar across all SNPs in that gene?
 
-Patriis precari et urbes mens saxa multo extenuat! Terribiles verbis relinquit
-facesque di, *veri nec cornu* totidem, hunc Achilli gemit?
 
-    seo(hardMalwareVisual);
-    edi.cpsLdapSyntax(speakers_iscsi, sdram_isa);
-    iconHitHoc.beta = popSnapshot;
-    ssd.iteration += exif_horizontal_soap.cache_voip(rootkitFileToslink);
-
-Quod quoque nemus petentes campos quoque neque faces dixit modo. Tumens iuncta
-nulli esse verso ergo invidia sibi [forte](http://omfgdogs.com/) nisi aequore
-aetate nam abit. Senioribus oculi Mithridateisque rutilos madida, vates uno,
-altera.
-
-Inperfossus sanguine paventem. Non leucada nec carmina, per medio, Solis
-septima.
