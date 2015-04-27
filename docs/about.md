@@ -6,6 +6,6 @@ The Myers Lab at Boston University Medical Campus is studying the genetic basis 
 
 ## What questions can we answer?
 
-1.How many instances of ASE exist in a given pathway? What are the genes? How many instances of ASE occur in genes known to be associated with PD? What genes?
-2.How much evidence is present to support that a given gene is, or is not, showing significant ASE? 
-3.For a gene flagged by MBASED as presenting ASE, what is the distribution of SNPs in that gene? Are the ratios of allele expression similar across all SNPs in that gene?
+1. How many instances of ASE exist in a given pathway? What are the genes? How many instances of ASE occur in genes known to be associated with PD? What genes?
+2. How much evidence is present to support that a given gene is, or is not, showing significant ASE? 
+3. For a gene flagged by MBASED as presenting ASE, what is the distribution of SNPs in that gene? Are the ratios of allele expression similar across all SNPs in that gene?
