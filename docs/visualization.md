@@ -22,10 +22,10 @@ visualization will display below the search bar.
 
 The first result will be the name of the gene currently visualized and the 
 strand of the reference genome on which the gene is located.  If the strand is 
-positive (‘+’), the gene visualizations will be displayed from left to right 
-in 5’ to 3’ orientation with the 5’ UTR on the left.  If the strand is negative 
-(‘-‘), the gene will be displayed from left to right in 3’ to 5’ orientation 
-with the 5’ UTR on the right.  
+positive ('+'), the gene visualizations will be displayed from left to right 
+in 5' to 3' orientation with the 5' UTR on the left.  If the strand is negative 
+('-'), the gene will be displayed from left to right in 3' to 5' orientation 
+with the 5' UTR on the right.  
 
 ### Coordinates
 
@@ -55,7 +55,7 @@ criteria and therefore these samples were not tested for ASE. Samples shown in
 black had at least one SNP that met the coverage criteria for MBASED.  Sample 
 names shown in bold had a MBASED p-value < 0.05, indicating there is 
 significant evidence for ASE in that sample.  Clicking on a sample name will 
-link to the ‘Sample’ page of the website where you will find more detailed 
+link to the Sample page of the website where you will find more detailed 
 information about the sample. As you scroll over the sample names a tooltip 
 will appear over the sample name giving the MBASED p-value, if available.
 
