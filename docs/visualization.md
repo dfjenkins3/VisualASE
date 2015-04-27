@@ -40,11 +40,11 @@ Below the coordinates is a schematic of the splicing pattern of an example
 transcript from the gene.  This will give you an idea of the size of the UTR 
 and exons for the gene visualized in the heatmap below.
 
-### Heatmap
+## Heatmap
 
 Below the gene visualization is the heatmap of allele frequencies.
 
-#### Rows
+### Rows
 
 Rows in the heatmap are samples in the data set.  MBASED is a tool run on this 
 data to identify genes that show evidence for ASE.  We applied a coverage 
@@ -59,7 +59,7 @@ link to the Sample page of the website where you will find more detailed
 information about the sample. As you scroll over the sample names a tooltip 
 will appear over the sample name giving the MBASED p-value, if available.
 
-#### Columns
+### Columns
 
 Columns in the heatmap are SNPs that were heterozygous for at least one of the 
 samples in the data set.  The SNP is identified by its chromosome and position 
@@ -67,7 +67,7 @@ in the hg38 human reference genome.  Clicking on a SNP name will take you to
 the Myers lab JBrowse instance where you can explore the splicing pattern of 
 the gene and examine the reads covering a particular SNP.
 
-#### Heatmap Cells
+### Heatmap Cells
 
 Each individual cell in the heatmap displays the frequency of the alternate 
 allele in the read pileup over the particular SNP position in the sample 
