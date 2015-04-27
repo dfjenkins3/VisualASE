@@ -1,5 +1,7 @@
 # Gene Visualization 
 
+[VisualASE Visualization](http://myerslab.bu.edu/VisualASE?p=visualization)
+
 ## What is it?
 
 The visualization can be used to explore the allele expression pattern across a 

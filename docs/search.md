@@ -1,5 +1,7 @@
 # Search
 
+[VisualASE Search](http://myerslab.bu.edu/VisualASE?p=search)
+
 ## How to do a search
 
 1. Choose a question you wish to be answered from the drop down menu.

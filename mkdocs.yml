@@ -3,7 +3,7 @@ pages:
 - [index.md, Home]
 - [about.md, About]
 - [er_diagram.md, ER Diagram]
-- [patient.md, Patient]
+- [sample.md, Sample]
 - [search.md, Search]
 - [visualization.md, Visualization]
 - [tutorial.md, Tutorial]
