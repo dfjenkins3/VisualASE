@@ -1,6 +1,7 @@
 # Specus ramum licet praeconia Phylius
 
-[Back to VisualASE Home Page](http://myerslab.bu.edu/VisualASE).
+[Back to VisualASE Home](http://myerslab.bu.edu/VisualASE)
+
 ## Dederat thalami ora deos mota crimenque rapidas
 
 Lorem markdownum enim Hesperio vivo cadit, caput! Studiisque amat tellus: videt

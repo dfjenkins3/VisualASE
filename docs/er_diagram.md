@@ -1,7 +1,8 @@
-# ER Diagram of the Database
+# Entity-Relationship Diagram of the Database
 
-## Below shows the relationship between different pieces of data.
+[Back to VisualASE Home](http://myerslab.bu.edu/VisualASE)
 
-![Alt Text](http://myerslab.bu.edu/VisualASE/static/img/ER.png)
+Click on a blue rectangle or diamond to see the attributes it holds. Gray diamonds
+represent implicit relationships in the database.
 
-## Notations:
+![ERD](http://myerslab.bu.edu/VisualASE/static/img/ER.png)
