@@ -1,6 +1,7 @@
 # Sample
 
 [Back to VisualASE Sample](http://myerslab.bu.edu/VisualASE?p=sample)
+
 [Back to VisualASE Home](http://myerslab.bu.edu/VisualASE)
 
 The Sample page is essentially a sample's profile page. It displays

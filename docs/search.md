@@ -1,6 +1,7 @@
 # Search
 
 [Back to VisualASE Search](http://myerslab.bu.edu/VisualASE?p=search)
+
 [Back to VisualASE Home](http://myerslab.bu.edu/VisualASE)
 
 ## How to do a search:
