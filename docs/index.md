@@ -1,4 +1,4 @@
-# VisualASE: A Database Web Interface for Visualizing Allele-Specific Expression in Parkinson’s Disease
+# VisualASE: A Database Web Interface for Visualizing Allele-Specific Expression in Parkinson's Disease
 
 [Back to VisualASE Home](http://myerslab.bu.edu/VisualASE)
 

@@ -8,7 +8,7 @@
 ### 1. Choose a question you wish to be answered from the drop down menu.
 
 * What genes exhibit ASE in at least one sample?
-* What genes have known associations to Parkinson’s disease?
+* What genes have known associations to Parkinson's disease?
 * What alignment tools have been used to analyze the RNA-Seq data?
 * How much of the RNA-Seq data aligned?
 
