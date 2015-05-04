@@ -136,7 +136,24 @@
 <p><a href="http://myerslab.bu.edu/VisualASE">Back to VisualASE Home</a></p>
 <p>Click on a blue rectangle or diamond to see the attributes it holds. Gray diamonds
 represent implicit relationships in the database.</p>
-<p><img alt="ERD" src="http://myerslab.bu.edu/VisualASE/static/img/ER.png" /></p>
+<p><img alt="ERD" src="http://myerslab.bu.edu/VisualASE/static/img/ER.png" border="0" usemap="#imgmap201542516156" />
+<map id="imgmap201542516156" name="imgmap201542516156">
+ <area shape="rect" alt="" title="" coords="1196,152,1500,372" style="outline:none;" target="_self" onclick="alert('Gene type:\ngtypeid\ngene_type');" />
+ <area shape="rect" alt="" title="" coords="1816,152,2120,376" style="outline:none;" target="_self" onclick="alert('Association source:\nasid\nassociation_source');" />
+ <area shape="rect" alt="" title="" coords="1820,532,2120,660" style="outline:none;" target="_self" onclick="alert('PD Association:\ngid (FK Gene)\nasid (FK Association_source)');"/>
+ <area shape="rect" alt="" title="" coords="1736,804,2040,1032" style="outline:none;" target="_self" onclick="alert('Gene:\ngid\ngene_name\ngtypid (FK Gene_type)\nchr\nstrand\nchr_start\nchr_end\nspia_pathway');"/>
+ <area shape="rect" alt="" title="" coords="560,812,860,1028" style="outline:none;" target="_self" onclick="alert('Transcript:\ntid\ngid (FK Gene)\nchr_start\nchr_end\nsplice_pattern');" />
+ <area shape="rect" alt="" title="" coords="212,876,372,960" style="outline:none;" target="_self" onclick="alert('Effect:\nsnpid\ntid\npredicted_effect\neq_type');" />
+ <area shape="rect" alt="" title="" coords="1104,1164,1404,1392" style="outline:none;" target="_self" onclick="alert('BAM:\nbid\nsid (FK Sample)\naid (FK Aligner)\naligner_version\ndate_created');" />
+ <area shape="rect" alt="" title="" coords="1736,1164,2036,1388" style="outline:none;" target="_self" onclick="alert('Aligner:\naid\naligner_name\nsplicing\nsnp_tolerance');" />
+ <area shape="rect" alt="" title="" coords="132,1448,440,1680" style="outline:none;" target="_self" onclick="alert('SNP locus:\nsnpid\ntid (FK Transcript)\nchr\nchr_position\npredicted_effect\nreference_base\nseq_type');" />
+ <area shape="rect" alt="" title="" coords="732,1492,884,1612" style="outline:none;" target="_self" onclick="alert('SNP count:\nsid\nsnpid\ngtid\nbid\nalternate_base\ntotal_reads\ndepth_A\ndepth_C\ndepth_G\nepth_T\nbinomal_p_value\ncorrected_binomial\nin_mbased');" />
+ <area shape="rect" alt="" title="" coords="1540,1580,1760,1672" style="outline:none;" target="_self" onclick="alert('MBASED:\nsid (FK Sample)\ngid (FK Gene)\nbid (FK BAM)\np_value\ncorrected_p');" />
+ <area shape="rect" alt="" title="" coords="1108,1872,1408,2092" style="outline:none;" target="_self" onclick="alert('Sample:\nsid\nsample_name\nis_control\nnum_reads\nsequencing_batch\nis_male\nage_of_death\nage_of_onset\ndementia\nalzheimers');" />
+ <area shape="rect" alt="" title="" coords="652,2020,964,2240" style="outline:none;" target="_self" onclick="alert('Genotype:\ngtid\ngenotype');" />
+ <area shape="rect" alt="" title="" coords="164,2132,404,2216" style="outline:none;" target="_self" onclick="alert('Microarray:\nsid (FK Sample)\nsnpid (FK SNP_locus)\ngtid (FK SNP_locus)');" />
+<!-- Created by Online Image Map Editor (http://www.maschek.hu/imagemap/index) --></map>
+</p>
             </div>
           </div>
           <footer>
