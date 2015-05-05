@@ -1,39 +1,25 @@
-# Specus ramum licet praeconia Phylius
+# Tutorial
 
 [Back to VisualASE Home](http://myerslab.bu.edu/VisualASE)
 
-## Dederat thalami ora deos mota crimenque rapidas
+## To Navigate
+Use the top tool bar to navigate between pages.
+![Alt Text](http://myerslab.bu.edu/VisualASE/static/img/Tool_Bar.png)
 
-Lorem markdownum enim Hesperio vivo cadit, caput! Studiisque amat tellus: videt
-ingens mugitibus [excessitque leto](http://tumblr.com/) penetrabit vittas
-clipeoque in!
+## To Do a Search
+To do a search and ask questions, use either the search function on the main page (VisualASE tab in the tool bar) or the Search tab.
+![Alt Text](http://myerslab.bu.edu/VisualASE/static/img/Search_1.png)
+![Alt Text](http://myerslab.bu.edu/VisualASE/static/img/Search_2.png)
+![Alt Text](http://myerslab.bu.edu/VisualASE/static/img/Search_3.png)
+To sort through the query results and download data, use those buttons in the red circles.
+Also, to look at gene visualization, click on the Gene name in the 1st column.
+![Alt Text](http://myerslab.bu.edu/VisualASE/static/img/Search_4.png)
+For more details about visualization, go back to the [Visualization Help Page.](https://dfjenkins3.github.io/VisualASE/visualization/)
 
-Maritae consurgere redditur **templa** Ephyre corporeusque causa verba vetito
-ille ova conprendere sum concessit, Parcarum. Si mandata sacra Piraeaque
-Pygmaeae vagantem altera promissas ipsas inde cana, Ixionides, morte. **Negat
-galea**. Amantis modo dedit deprimeret imago; semper hoc turba fractis in fidem:
-nube cum.
+## To use the Sample Page
+To choose a specific sample to look at, use the drop-down menu and select the Sample ID.
+![Alt Text](http://myerslab.bu.edu/VisualASE/static/img/Sample_Page.png)
+You can also use the blue button to download all sample data.
 
-> Isque in furtum terribilis videre caelestibus fata mixtaeque vultum certas
-> iuvenem quosque. Quae in medios **et** colentes *aera palmis*, de enim heu
-> aeternus fuerant. Hora fuit Echo fugitque gratia in incipit crinita matertera
-> *potest*. Iubeo iactis indice harenas curvantur vitibus mora Calydonius
-> Caesareos plena concidit ira fidem, cana obruor, prehensis.
-
-## Potui nostri numerare nomen latebris
-
-Patriis precari et urbes mens saxa multo extenuat! Terribiles verbis relinquit
-facesque di, *veri nec cornu* totidem, hunc Achilli gemit?
-
-    seo(hardMalwareVisual);
-    edi.cpsLdapSyntax(speakers_iscsi, sdram_isa);
-    iconHitHoc.beta = popSnapshot;
-    ssd.iteration += exif_horizontal_soap.cache_voip(rootkitFileToslink);
-
-Quod quoque nemus petentes campos quoque neque faces dixit modo. Tumens iuncta
-nulli esse verso ergo invidia sibi [forte](http://omfgdogs.com/) nisi aequore
-aetate nam abit. Senioribus oculi Mithridateisque rutilos madida, vates uno,
-altera.
-
-Inperfossus sanguine paventem. Non leucada nec carmina, per medio, Solis
-septima.
+## More questions?
+Contact the [Myers Lab](http://www.bumc.bu.edu/neurology/clinicalfaculty/myers/) at BU MED.
