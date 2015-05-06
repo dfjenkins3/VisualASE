@@ -22,8 +22,7 @@
   <script type="text/javascript" src="../js/highlight.pack.js"></script>
   <script src="../js/theme.js"></script> 
 <script type="text/javascript" language="javascript">
-window.onresize = function () {
-    alert("resize");
+function resizeMap(){
     var ImageMap = function (map, img) {
             var n,
                 areas = map.getElementsByTagName('area'),
@@ -49,14 +48,14 @@ window.onresize = function () {
             window.onresize = this.resize;
         },
         imageMap = new ImageMap(document.getElementById('imgmap201542516156_ID'), document.getElementById('er'));
-    imageMap.resize();
+        imageMap.resize();
     return;
 }
 </script>
   
 </head>
 
-<body class="wy-body-for-nav" role="document" onresize="imageMap.resize()">
+<body class="wy-body-for-nav" role="document">
 
   <div class="wy-grid-for-nav">
 
@@ -167,7 +166,7 @@ window.onresize = function () {
 <p><a href="http://myerslab.bu.edu/VisualASE">Back to VisualASE Home</a></p>
 <p>Click on a blue rectangle or diamond to see the attributes it holds. Gray diamonds
 represent implicit relationships in the database.</p>
-<p><img id="er" alt="ERD" src="http://myerslab.bu.edu/VisualASE/static/img/ER.png" border="0" width="100%" usemap="#imgmap201542516156" />
+<p><img id="er" alt="ERD" src="http://myerslab.bu.edu/VisualASE/static/img/ER.png" border="0" width="100%" usemap="#imgmap201542516156" onload="resizeMap()" onresize="resizeMap()" />
 <map id="imgmap201542516156_ID" name="imgmap201542516156">
 <area shape="rect" alt="" title="" coords="357,45,445,110" style=outline:none;" target="_self" onclick="alert('Gene type:\ngtypeid\ngene_type');" />
 <area shape="rect" alt="" title="" coords="540,45,628,110" style=outline:none;" target="_self" onclick="alert('Association source:\nasid\nassociation_source');" />
