@@ -25,7 +25,7 @@ Also, to look at gene visualization, click on the Gene name in the 1st column.
 
 For more details about visualization, go back to the [Visualization Help Page.](https://dfjenkins3.github.io/VisualASE/visualization/)
 
-## To use the Sample Page
+## To Use the Sample Page
 
 To choose a specific sample to look at, use the drop-down menu and select the Sample ID.
 
